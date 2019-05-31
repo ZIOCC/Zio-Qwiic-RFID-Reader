@@ -1,4 +1,4 @@
-# Zio Qwiic RFID Reader
+# Zio Qwiic RFID Reader (MFRC522)
 
 
 
